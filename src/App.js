@@ -1,13 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-function App() {
+function App() {//djfgdfbhg
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          santy <code>src/App.js</code> and save to reload.
+          santy 
         </p>
         <a
           className="App-link"
